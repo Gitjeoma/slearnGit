@@ -1,1 +1,1 @@
-Welecome to my Git and Github training, I hope you have enjoy surfing!!!
+Welcome to my Git and Github training, I hope you have enjoy surfing!!!
